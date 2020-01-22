@@ -106,6 +106,6 @@ out\
 .idea\
 artifacts\
 SimpleTwitter.iml
-src\main\java\TestDatabaseConnection.java
+src\App\java\TestDatabaseConnection.java
 
 TestDatabaseConnection.java
